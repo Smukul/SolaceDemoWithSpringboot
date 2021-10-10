@@ -15,3 +15,5 @@ Message VPN	(String) -	The message router Message VPN that client should connect
 Client Username	(String) -	The client username
 
 Client Password	(String) -	The client password
+
+You can tryout the Solace PubSub at https://solace.com/products/event-broker/software/getting-started/

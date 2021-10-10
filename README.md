@@ -7,6 +7,7 @@ Using spring boot and all the configurations will be java based following JMS sp
 To start consuming messages mesage from the Solace queue, we can simply run our SolaceDemoApplication.java as a java application and we can see that application starts consuming messages from the queue
 
 Solace Messaging Terminology -
+
 Host (String) -	This is the address clients use when connecting to the messaging to send and receive messages.
 Message VPN	(String) -	The message router Message VPN that client should connect to.
 Client Username	(String) -	The client username
